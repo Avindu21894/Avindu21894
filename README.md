@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Avindu Kavinda</h1>
-<h3 align="center">IT Student on a Journey | Delving into Tech Innovations | Tech Devotee</h3>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avindu+Kavinda!;" />
+</h1><h3 align="center">IT Student on a Journey | Delving into Tech Innovations | Tech Devotee</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif">
 
 
