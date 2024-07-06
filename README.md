@@ -2,11 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Avindu+Kavinda!;" />
 </h1>
 <h3 align="center">IT Student on a Journey | Delving into Tech Innovations | Tech Devotee</h3>
-<div align="center"> 
-
-  [![](https://visitcount.itsvg.in/api?id=Avindu21894&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=avindu21894&label=Profile%20views&color=00f0a8&style=plastic" alt="avindu21894" /> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
