@@ -15,11 +15,3 @@
 <a href="https://kaggle.com/avinduict21894" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avinduict21894" height="30" width="40" /></a>
 <a href="https://fb.com/avindu kavinda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avindu kavinda" height="30" width="40" /></a>
 <a href="https://instagram.com/__.avin01.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.avin01.__" height="30" width="40" /></a>
-
-<hr>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avindu21894" alt="avindu21894" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avindu21894&show_icons=true&locale=en&layout=compact" alt="avindu21894" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avindu21894&show_icons=true&locale=en" alt="avindu21894" /></p>
