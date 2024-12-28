@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Avindu+Kavinda+Payagalage!;+Thanks+for+visiting+my+GitHub!" />
 </h1>
-<h3 align="center">IT Student on a Journey | Delving into Tech Innovations | Tech Devotee</h3>
+<h3 align="center">Undergraduate IT Student on a Journey | Web Developer | AI and ML Enthusiast</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
